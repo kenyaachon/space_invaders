@@ -1,0 +1,3 @@
+/home/moses/Documents/c++projects/space_invadesr/CMakeFiles/rebuild_cache.dir
+/home/moses/Documents/c++projects/space_invadesr/CMakeFiles/space_invaders.dir
+/home/moses/Documents/c++projects/space_invadesr/CMakeFiles/edit_cache.dir
